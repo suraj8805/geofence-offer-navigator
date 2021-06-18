@@ -221,10 +221,4 @@ You can also set this values at runtime in some step before call method `request
 - does not work when in doze mode [#2](https://github.com/exozet/Geolocator/issues/2)
 
 
-### Contributors
 
-[Jan Rabe](jan.rabe@exozet.com)
-
-[Paul Sprotte](paul.sprotte@exozet.com)
-
-[AgnaldoNP] (https://github.com/AgnaldoNP)
