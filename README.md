@@ -3,7 +3,7 @@
 The application is basically based on a geofence detection.
 
 ## Description:
-In this Application you can add a location based task so whenever you add a task based on location you will be notify when you entered into your desired location with the message **"Task need to be completed"** and  the list of tasks will be shown which you were added, also when you exit from that location you will be notify too that your task has been completed. Location detect with the Fused API after every 15sec new location will be feteched and Geofence class will check whether the current location is the desired location or not.
+In this Application you can add a location based task so whenever you want to buy a product task based on location you will be notify when you entered into your desired location with the message. Location detect with the Fused API after every 15sec new location will be feteched and Geofence class will check whether the current location is the desired location or not.
 
 ## Features:
 
